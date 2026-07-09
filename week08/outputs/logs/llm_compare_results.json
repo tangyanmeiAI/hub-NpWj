@@ -1,0 +1,714 @@
+{
+  "model": "qwen-plus",
+  "n_samples": 100,
+  "metrics": {
+    "accuracy": 0.73,
+    "precision_pos": 0.8,
+    "recall_pos": 0.24242424242424243,
+    "f1_pos": 0.372093023255814,
+    "n_valid": 100,
+    "n_fail": 0
+  },
+  "results": [
+    {
+      "sentence1": "你好，微粒贷还款可以用微信零钱还吗？",
+      "sentence2": "你好，我微信零钱里面有8000多，想提前还清微粒贷的款，但是点还款那里，没有零钱还款的选项，请问怎么处理？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "可是我手机上看不到微粒贷",
+      "sentence2": "刚刚手机没听到",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么我的微粒贷是未通过审核？",
+      "sentence2": "为什么四次都没通过",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "你好一次性只可以借4万吗",
+      "sentence2": "额度已经最高了吗",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "1000元五期利息是多少",
+      "sentence2": "10万的联系是多少",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我为什么吗不能贷款",
+      "sentence2": "借钱",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "微粒贷开通/色",
+      "sentence2": "帮我开通微粒贷",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "怎么其他银行卡怎么还呢",
+      "sentence2": "借的钱可以转到别的银行卡吗？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我可以贷款吗",
+      "sentence2": "微粒贷怎么用",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "怎样关闭微粒贷款",
+      "sentence2": "如何删除微粒贷啊",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "今天自动扣款失败了，现在帮我再次扣款",
+      "sentence2": "你好我今天是还款日忘了卡没钱，后来下午18点收到信息才转钱到该张存储卡，但到现在都还没扣款",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我的怎么没有借款功能",
+      "sentence2": "你好没有借款功能吗？",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "再吗",
+      "sentence2": "在I不在",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "如果是本人银行卡还未绑定能通过吗",
+      "sentence2": "扣扣绑定的银行卡解绑了影响还款么",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么评估不了成功",
+      "sentence2": "为什么还款了还信用评级不足？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "什么时候钱到位。",
+      "sentence2": "钱什么时候到呀",
+      "label": 1,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "扣款是以什么时间为限",
+      "sentence2": "比如我贷款十个月两个月的时候就还完，剩余八个月利息都没了吗？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么申请了一直没电话审核",
+      "sentence2": "电话确认需要多久",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "借钱后多久银行来电话",
+      "sentence2": "申请借款后多久能等到确认电话",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "请问即将推出什么产品？",
+      "sentence2": "不是说有红包啊",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "1500的日利息是多少",
+      "sentence2": "7天免息是怎样计算的",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "这个公众号是干什么的",
+      "sentence2": "你是什么银行",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为啥我没走微粒贷",
+      "sentence2": "那里有贷款接口",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "填信息",
+      "sentence2": "信息输错不能借款怎么办",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "如何开通微粒贷",
+      "sentence2": "“菜单”",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "哪里开通",
+      "sentence2": "如果想小额贷款，我需要有什么资质要",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "17点之前没转入怎么办",
+      "sentence2": "下个月一起还行不行",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "哥，可以一次提前还清不",
+      "sentence2": "可以提前还清马上又价款吗？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "还没有接听电话，可以取消借款不",
+      "sentence2": "没有申请成功可以取消借款吗？",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么一直重复发送验证码不能申请",
+      "sentence2": "借款手机验证码停机了",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "你好我想咨询下，我要更改还款卡号，怎么操作",
+      "sentence2": "如何变换银行卡还款",
+      "label": 1,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "产品安全吗？",
+      "sentence2": "如何保障投入资金的安全",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "咋样开启",
+      "sentence2": "2没我微粒贷可以申请吗何时会邀请我使用微粒贷1",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "QQ上有微粒贷，为什么微信上没有微粒贷呢？",
+      "sentence2": "QQ钱包里的微粒贷和微信里的有区别吗？",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "取消订单",
+      "sentence2": "我的手机号停机了，无法验证",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "微信怎么实名认证",
+      "sentence2": "苹果手机申请以后会有微粒贷吗？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么总是没额度",
+      "sentence2": "为什么我木有额度",
+      "label": 1,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "提前还款还收利息吗",
+      "sentence2": "微粒贷提前还款还能在借吗",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么一直不能还款",
+      "sentence2": "为什么我已还款，但显示失败",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我用其他银行卡还这期的款怎么不可以呢？？为什么要还清才可以用其他银行卡呢？",
+      "sentence2": "用其它银行卡可还款吗",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "你好,我帐户有钱,怎么没扣啊",
+      "sentence2": "你好自动扣款失败了怎么处理？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "个人还款证明",
+      "sentence2": "你好，我还清贷款，能不能给我出具还清凭据",
+      "label": 1,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "每月几号还款",
+      "sentence2": "贷款之后，多久可以还款？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "一期为多长时间",
+      "sentence2": "10000借一个月，一个月后还多少钱？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "怎么关闭微粒贷哦",
+      "sentence2": "如何取消授权",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "一笔借款提前还清还可以借款吗",
+      "sentence2": "一次还清，多久能再贷款",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "在什么地方可以看到每期的还款记录",
+      "sentence2": "哪里查看每月还款记录详情",
+      "label": 1,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "我的信息会不会泄露",
+      "sentence2": "想了解有风险不",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "什么时候微粒贷才可以贷",
+      "sentence2": "什么时候可以继续贷款",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "等待确认电话",
+      "sentence2": "你好，审核需要多久？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "取消贷款",
+      "sentence2": "我刚操作失误，我不需要贷款",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "提前还款怎么计算利息？例如我借了2万，5天之后把全部还清，",
+      "sentence2": "能提前还款一部分吗",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "什么时候可以开通借钱",
+      "sentence2": "什么时候可以在借钱啊",
+      "label": 0,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "多久才能提升信用度多久才能提升信用度多久才能提升信用度重要的事非得要说三遍吗",
+      "sentence2": "多久可以快速提额",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "月息是多少",
+      "sentence2": "1000的月息多少",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我问我有一笔还款昨天为何没有扣款？",
+      "sentence2": "没有提前还款选项",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "你好我想问下电话大概多久会打过来",
+      "sentence2": "可以帮我查看一下微粒贷什么时候到帐吗",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "一直没有给我来电",
+      "sentence2": "今天早上电话审核没听到！再次联系的电话什么时候打过来？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "怎么添加名，下其他的银行卡",
+      "sentence2": "评估其他银行卡",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "不满足审批",
+      "sentence2": "您为满足微粒贷审批要求",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "绑定还款的卡已挂失，如何更换？",
+      "sentence2": "还款银行卡账户变更怎么办",
+      "label": 0,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "绑定手机号怎么更改",
+      "sentence2": "电话已更换了",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么我贷款不成功啊",
+      "sentence2": "我不是可以贷一千五吗我怎么申请失败",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "如何申请微粒贷",
+      "sentence2": "怎样才能获得开通微粒贷的资格",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "逾期742，罚息怎么算",
+      "sentence2": "加收利率的50%罚息什么意思",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "借款2万，10个月，每月要还多少",
+      "sentence2": "分几期还款",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "2天没收到电话确认",
+      "sentence2": "1:错过审核电话",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "怎么样下载软件我微信上怎么没有",
+      "sentence2": "进不了业面",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么还了款显示还款失败",
+      "sentence2": "你好，我还款怎么一直是失败的",
+      "label": 1,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "借款只是刷卡消费还是取现消费",
+      "sentence2": "借款是直接转银行卡里吗？可用来转账吗？提取现金吗",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "什么时候被邀请",
+      "sentence2": "为啥还不邀请我呢",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "为什么没有额度信息呢？",
+      "sentence2": "为什么我还完了现在没有额度了不是说循环借吗我从来没有预期过呀",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "取消借款申请可否",
+      "sentence2": "取消借款怎么手续",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "身份信息多次錯誤",
+      "sentence2": "我本来是受邀客户，但是在输身份信息时输错了三次，结果给我锁定了，但过了有一星期还没有解锁",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "15日还",
+      "sentence2": "15日晚一点还款行不行",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我想关闭微粒贷，怎么操作？",
+      "sentence2": "如果借款没有消费是不是就不用还款了",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "还款是什么时间会扣",
+      "sentence2": "还款日当天存钱",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我刚借贷了三千块钱，请问下一天的利息是多少",
+      "sentence2": "日利率",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "借了不分期可以吗",
+      "sentence2": "借款多长时间还呢？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "你好我刚才申请了一笔贷款我该咋样取消",
+      "sentence2": "你好，刚才申请小额贷款，现在可以取消吗",
+      "label": 1,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "一万元日息多少",
+      "sentence2": "1000块钱五个月计息是多少？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "多久审批出来",
+      "sentence2": "周六周日审核吗",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "5.14日的还款期限，银行卡也有钱，为何没扣款",
+      "sentence2": "一般凌晨几点扣款",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "提前还款是否收取全部手续费",
+      "sentence2": "第一次还款就失败",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "一次性还完，还可以再借吗",
+      "sentence2": "一次性还清怎么还",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "还款凭证有吗",
+      "sentence2": "我是说一次还清",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我的银行卡中间丢失了，重新补办后，卡号不一样了",
+      "sentence2": "换了为什么还是显示原本那张还？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "可以提现吗",
+      "sentence2": "为什么开通不了，说银行卡或手机号码不对？明明都是对的啊",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "利息怎么计算，是不是本息还完就不用产生利息。",
+      "sentence2": "利息多少",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "可以借多次吗",
+      "sentence2": "借款申请什么时候可以回复",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "你好，招商银行卡不能绑定吗？",
+      "sentence2": "为什么我的招商银行卡不能绑",
+      "label": 1,
+      "pred": 1,
+      "raw": "是"
+    },
+    {
+      "sentence1": "一天多钱",
+      "sentence2": "不会多扣钱吧",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "我根本就没有接到任何电话！",
+      "sentence2": "刚刚打了电话给我。我没有接到",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "F菜单",
+      "sentence2": "你有什么用",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "怎样查询自己的额度",
+      "sentence2": "给我来个额度",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "如何才能拥有微粒贷",
+      "sentence2": "微贷可以做什么",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "您好，我提前还款可以吗",
+      "sentence2": "借款提前还清还可以借第二次吗",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "一次性还清，再什么时候可以再借",
+      "sentence2": "24小时可以借款？",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "开都不给我开放发什么消息阿",
+      "sentence2": "吹你妹垃圾没开你发毛的信息",
+      "label": 1,
+      "pred": 0,
+      "raw": "否"
+    },
+    {
+      "sentence1": "取消不成功借款",
+      "sentence2": "取消借款功能",
+      "label": 0,
+      "pred": 0,
+      "raw": "否"
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "year": "2023",
+    "title": "2023年四川移动资费标准",
+    "filename": "2023-四川移动资费标准.pdf"
+  },
+  "source": "C:\\work\\hub-NpWj\\唐艳梅\\week10\\rag_sc_prc_report\\data\\raw_pdf\\2023-四川移动资费标准.pdf",
+  "blocks": [
+    {
+      "block_type": "text",
+      "content": "2023 年中国移动四川完整资费汇总\n2023 四川移动分为8 元 4G 自由选（保号）、4G 常规流量套餐、5G 智享个人、互\n联网花卡 / 潮玩卡、全家享宽带融合、孝心卡六大类，全国无长途漫游，接听全免\n费，不含港澳台。",
+      "page_num": 1,
+      "section_path": [],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "2 个版本，均送来电显示",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1. 8 元语音版",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "1. 8 元语音版"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "月租 8 元，30 分钟国内主叫，无套内流量\n套外语音 0.19 元 / 分钟；流量 0.29 元 / M，满 10 元送 1G 循环计费中国移动\n移...",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "1. 8 元语音版"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2. 8 元流量版",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "1. 8 元语音版",
+        "2. 8 元流量版"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "月租 8 元，100MB 国内通用流量，无套内通话\n套外语音 0.19 元 / 分钟，流量规则同上",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "1. 8 元语音版",
+        "2. 8 元流量版"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "二、4G 自由选基础档位（线下老款）",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "二、4G 自由选基础档位（线下老款）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "月租",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "二、4G 自由选基础档位（线下老款）",
+        "月租"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "套餐内容",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "二、4G 自由选基础档位（线下老款）",
+        "月租",
+        "套餐内容"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "28 元语音款 120 分钟国内通话 + 20M 流量\n28 元流量款 900M 通用流量\n38 元语音款 240 分钟国内通话 + 20M 流量\n38 元流量款 2.7G 通用流量\n套外资费统一：语音 0.19 元 / 分钟，流量 10 元 / G 循环中国移动",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "二、4G 自由选基础档位（线下老款）",
+        "月租",
+        "套餐内容"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "三、互联网线上卡（花卡 / 潮玩卡，2023 四川主推）",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "三、互联网线上卡（花卡 / 潮玩卡，2023 四川主推）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1. 移动花卡宝藏版",
+      "page_num": 1,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "三、互联网线上卡（花卡 / 潮玩卡，2023 四川主推）",
+        "1. 移动花卡宝藏版"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "花卡定向APP 范围\n19 元档：30GB 定向流量（抖音 / 腾讯 / 阿里 / 百度等百款 APP）；通用流\n量 1 元 1GB 日租，不用不扣费；通话 0.1 元 / 分钟\n29 元档（爆款）：50GB 通用流量 + 30GB 定向流量；套外 5 元 1GB；全国\n通话 0.1 元 / 分钟；新卡首月免月租；可绑定 4 人亲情网互打免费",
+      "page_num": 2,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "三、互联网线上卡（花卡 / 潮玩卡，2023 四川主推）",
+        "1. 移动花卡宝藏版"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2. 潮玩卡（线下大流量）",
+      "page_num": 2,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "三、互联网线上卡（花卡 / 潮玩卡，2023 四川主推）",
+        "2. 潮玩卡（线下大流量）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "39 元：5G 通用 + 30G 定向，80 分钟通话\n59 元：10G 通用 + 30G 定向，150 分钟通话\n79 元：15G 通用 + 30G 定向，200 分钟通话\n套外流量 5 元 / G，语音 0.1 元 / 分钟，3 个亲情号免费打",
+      "page_num": 2,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "三、互联网线上卡（花卡 / 潮玩卡，2023 四川主推）",
+        "2. 潮玩卡（线下大流量）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3. 孝心卡（60 岁以上专属）",
+      "page_num": 2,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "三、互联网线上卡（花卡 / 潮玩卡，2023 四川主推）",
+        "3. 孝心卡（60 岁以上专属）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "19 元：2G 通用 + 10G 定向 + 100 分钟\n29 元：3G 通用 + 20G 定向 + 100 分钟\n套外 5 元 / G，0.1 元 / 分钟，亲情号免费",
+      "page_num": 2,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "三、互联网线上卡（花卡 / 潮玩卡，2023 四川主推）",
+        "3. 孝心卡（60 岁以上专属）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "四、5G 智享个人套餐（全国统一，四川同步执行）",
+      "page_num": 2,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "四、5G 智享个人套餐（全国统一，四川同步执行）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "5G 智享个人套餐",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "四、5G 智享个人套餐（全国统一，四川同步执行）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "月租",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "四、5G 智享个人套餐（全国统一，四川同步执行）",
+        "月租"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "国内通用流量 国内语音 权益",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "四、5G 智享个人套餐（全国统一，四川同步执行）",
+        "月租",
+        "国内通用流量 国内语音 权益"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "128 元 30GB\n500 分钟 5G 优享速率，每月视频会员 6 选 1\n198 元 60GB\n1000 分钟 5G 优享，增值业务折扣\n298 元 100GB\n1500 分钟 5G 极速速率，全球通银卡\n398 元 150GB\n2000 分钟 5G 极速，全球通金卡\n598 元 200GB\n3000 分钟 5G 极速，全球通白金卡\n套外：语音 0.15 元 / 分钟，流量 3 元 / G 循环计费；月累计 200G 断网，次月恢",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "四、5G 智享个人套餐（全国统一，四川同步执行）",
+        "月租",
+        "国内通用流量 国内语音 权益"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "五、全家享手机 + 宽带融合套餐（2023 四川家庭主力）",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "五、全家享手机 + 宽带融合套餐（2023 四川家庭主力）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "入门融合（低月租带宽带）",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "五、全家享手机 + 宽带融合套餐（2023 四川家庭主力）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1. 39 元：300M 宽带 + 50G 流量 + 150 分钟通话",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "五、全家享手机 + 宽带融合套餐（2023 四川家庭主力）",
+        "1. 39 元：300M 宽带 + 50G 流量 + 150 分钟通话"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2. 49 元：300M 宽带 + 65G 流量 + 300 分钟通话",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "五、全家享手机 + 宽带融合套餐（2023 四川家庭主力）",
+        "2. 49 元：300M 宽带 + 65G 流量 + 300 分钟通话"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3. 79 元：300M 宽带 + 80G 流量 + 300 分钟通话",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "五、全家享手机 + 宽带融合套餐（2023 四川家庭主力）",
+        "3. 79 元：300M 宽带 + 80G 流量 + 300 分钟通话"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "4. 68 元：100M 宽带 + 12G 流量 + 200 分钟，IPTV 机顶盒 0 元 / 月",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "五、全家享手机 + 宽带融合套餐（2023 四川家庭主力）",
+        "4. 68 元：100M 宽带 + 12G 流量 + 200 分钟，IPTV 机顶盒 0 元 / 月"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "高端全家享（多卡共享千兆宽带）\n99 元：300M 宽带，共享 30GB 流量、500 分钟，最多 2 张免费副卡\n139 元：500M 宽带，60GB 共享流量、1000 分钟\n228 元：1000M 宽带，100GB 流量、1500 分钟，4 张副卡\n619 元顶配：1000M 宽带、300GB 流量、3000 分钟、2 路电视、家庭云盘\n会员中国移动\n通用规则：家庭成员互打免费；合约 2 年；IPTV 电视 10 元 / 路 / 月",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "五、全家享手机 + 宽带融合套餐（2023 四川家庭主力）",
+        "4. 68 元：100M 宽带 + 12G 流量 + 200 分钟，IPTV 机顶盒 0 元 / 月"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "六、通用套外资费标准（2023 全套餐统一）",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "六、通用套外资费标准（2023 全套餐统一）"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1. 语音：常规套餐 0.15~0.19 元 / 分钟；互联网花卡 / 潮玩卡 0.1 元 / 分",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "六、通用套外资费标准（2023 全套餐统一）",
+        "1. 语音：常规套餐 0.15~0.19 元 / 分钟；互联网花卡 / 潮玩卡 0.1 元 / 分"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "钟；全国接听永久免费",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "六、通用套外资费标准（2023 全套餐统一）",
+        "1. 语音：常规套餐 0.15~0.19 元 / 分钟；互联网花卡 / 潮玩卡 0.1 元 / 分"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2. 短信 0.1 元 / 条，彩信 0.3 元 / 条",
+      "page_num": 3,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "六、通用套外资费标准（2023 全套餐统一）",
+        "2. 短信 0.1 元 / 条，彩信 0.3 元 / 条"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3. 流量计费分 3 种模式：",
+      "page_num": 4,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "六、通用套外资费标准（2023 全套餐统一）",
+        "3. 流量计费分 3 种模式："
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "8 元自由选：0.29 元 / M，满 10 元送 1G 循环\n5G 智享：3 元 / GB 循环\n花卡 / 潮玩 / 融合宽带：5 元 / GB 循环",
+      "page_num": 4,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "六、通用套外资费标准（2023 全套餐统一）",
+        "3. 流量计费分 3 种模式："
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "4. 流量封顶：当月累计使用 200GB 自动断网，次月自动恢复；可临时解封",
+      "page_num": 4,
+      "section_path": [
+        "一、8 元 4G 自由选套餐（官方最低保号套餐）",
+        "六、通用套外资费标准（2023 全套餐统一）",
+        "4. 流量封顶：当月累计使用 200GB 自动断网，次月自动恢复；可临时解封"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    }
+  ]
+}
